@@ -10,3 +10,11 @@ https://sketchfab.com/3d-models/gramophone-1ecc04eb85b14f46a398316586de6308
 material_ball.obj:
 CC Attribution
 https://sketchfab.com/3d-models/material-ball-in-3d-coat-a6bdf1d11d714e07b9dd99dda02de965
+
+old_car.obj:
+CC Attribution-NonCommercial
+https://sketchfab.com/3d-models/old-rusty-car-95baa20ebc5d4d2e869f0b549be838fe
+
+colt1911.obj:
+CC Attribution
+https://sketchfab.com/3d-models/colt-1911-3e2bd907e96a4f49a297780e36315cf2
